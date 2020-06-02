@@ -1,3 +1,0 @@
-videocamera
-lighting
-and else . . .
